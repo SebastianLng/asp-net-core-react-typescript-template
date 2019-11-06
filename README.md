@@ -1,6 +1,6 @@
 # ASP.NET Core 3 React Typescript Template
 
-## Create a project with a default React Typescript app:
+## Create a default React Typescript app:
 
 1. Create an ASP.NET Core 3 project with the React Template in Visual Studio.
 2. Remove the Content of the "ClientApp" Folder.
